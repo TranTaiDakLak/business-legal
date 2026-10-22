@@ -1,6 +1,6 @@
-# Cấu hình GitHub Pages cho 2 trang công khai của Mind Business.
-# Chỉ cần sửa dòng email bên dưới thành email hỗ trợ thật (trùng email đã khai ở Google Cloud → Branding).
+# GitHub Pages settings for the two public Mind Business pages.
+# Replace the email below with the real support email (same as "User support email" in Google Cloud → Branding).
 title: Mind Business
-description: Phần mềm desktop quản lý tài sản và hồ sơ trình duyệt
-lang: vi
-email: EMAIL_HO_TRO@example.com
+description: Desktop app for managing business assets and browser profiles
+lang: en
+email: YOUR_SUPPORT_EMAIL@example.com
